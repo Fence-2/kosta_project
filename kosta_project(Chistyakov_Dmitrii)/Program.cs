@@ -16,7 +16,7 @@ namespace kosta_project_Chistyakov_Dmitrii_
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new ServerParameters());
         }
     }
 }
